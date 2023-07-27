@@ -50,3 +50,36 @@ footer {
     padding: 20px 0;
     border-top: 1px solid #ccc;
 }
+
+/* ...previous styles... */
+
+.content {
+    display: flex; /* Use flexbox to control the layout */
+    align-items: center; /* Vertically align the paragraph and the image */
+}
+
+
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Three columns of equal width */
+    grid-gap: 10px; /* Adjust this value to add spacing between images */
+}
+
+
+.image-grid img {
+    width: 100%; /* Set a fixed width for the images */
+    height: 100px; /* Set a fixed height for the images */
+    object-fit: contain; /* Preserve aspect ratio and crop images as needed to fill the container */
+}
+
+.image-grid p {
+    margin-bottom: 10px; /* Add space above the paragraphs */
+}
+
+/* ...previous styles... */
+
+/* Add space between </p> and <div> in the 'about' section */
+#about .image-grid {
+    margin-top: 20px; /* Adjust this value to add the desired space */
+}
+
