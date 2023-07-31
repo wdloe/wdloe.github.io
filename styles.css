@@ -5,13 +5,14 @@ body, h1, h2, h3, h4, h5, h6, p, ul, li {
 }
 
 body {
-    font-family: Monospace, sans-serif;
+    font-family: Verdana, Monospace;
     line-height: 1.6;
     background-color: #f9f9f9;
     color: #333;
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+    font-size: 10pt;
 }
 
 header {
@@ -41,7 +42,11 @@ nav a:hover {
 }
 
 section {
-    padding: 40px 0;
+    padding: 10px 0;
+}
+
+subsection {
+    padding: 5px 0;
 }
 
 footer {
@@ -63,6 +68,7 @@ footer {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* Three columns of equal width */
     grid-gap: 10px; /* Adjust this value to add spacing between images */
+    margin-bottom: 20px;
 }
 
 
@@ -73,13 +79,33 @@ footer {
 }
 
 .image-grid p {
-    margin-bottom: 10px; /* Add space above the paragraphs */
+    margin-bottom: 20px; /* Add space above the paragraphs */
+}
+
+p {
+    margin-bottom: 20px; /* Add some space between the paragraphs */
+}
+
+ul {
+    list-style-position: inside; /* Align the list items with the previous paragraph */
 }
 
 /* ...previous styles... */
 
 /* Add space between </p> and <div> in the 'about' section */
 #about .image-grid {
-    margin-top: 20px; /* Adjust this value to add the desired space */
+    margin-top: 40px; /* Adjust this value to add the desired space */
+	margin-bottom: 20px;
 }
 
+
+.subitem1 {
+	padding-left: 20px; /* Adjust this value to control the indent */
+	font-size: 8pt;
+}
+        
+.subitem2 {
+	padding-left: 20px; /* Adjust this value to control the indent */
+	font-style: italic;
+	font-size: 8pt;
+}
