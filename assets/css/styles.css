@@ -1,0 +1,12 @@
+/* Your current styles.css can be copied here */
+/* Example base style */
+body {
+    font-family: Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 10pt;
+}
