@@ -1,5 +1,28 @@
-title: William Damario Lukito
-description: Personal website of William Damario Lukito
-url: "https://wdloe.github.io"
-baseurl: ""
-theme: minima
+.site-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #ddd;
+}
+
+.site-nav li {
+    margin: 0 15px;
+}
+
+.site-nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 10px 15px;
+    display: block;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.site-nav a:hover {
+    color: #fff;
+    background-color: #007acc;
+    border-radius: 5px;
+}
