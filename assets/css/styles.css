@@ -10,3 +10,33 @@ body {
     padding: 20px;
     font-size: 10pt;
 }
+
+/* Horizontal navigation bar */
+.site-nav ul {
+    list-style: none;           /* remove bullets */
+    padding: 0;
+    margin: 0;
+    display: flex;              /* make horizontal */
+    justify-content: center;    /* center horizontally */
+    background-color: #f5f5f5;  /* light background */
+    border-bottom: 1px solid #ddd; /* subtle bottom border */
+}
+
+.site-nav li {
+    margin: 0 15px;             /* spacing between menu items */
+}
+
+.site-nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 10px 15px;
+    display: block;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.site-nav a:hover {
+    color: #fff;
+    background-color: #007acc;  /* hover background color */
+    border-radius: 5px;
+}
