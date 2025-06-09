@@ -1,29 +1,5 @@
-title: William D. Lukito
-tagline: Ph.D. Candidate, AI for IoT Satellite Communications
-description: Personal website of William D. Lukito
+title: William Damario Lukito
+description: Personal website of William Damario Lukito
 url: "https://wdloe.github.io"
-baseurl: "" # Important for GitHub Pages
-
-theme: jekyll-theme-chirpy
-
-lang: en
-timezone: Australia/Melbourne
-
-author:
-  name: William D. Lukito
-  email: W.Lukito@latrobe.edu.au
-  links:
-    - https://github.com/wdloe
-    - https://www.linkedin.com/in/williamdlukito
-
-# Plugins required by Chirpy
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-archives
-
-# Optional features
-toc: true
-mode: light
+baseurl: ""
+theme: minima
