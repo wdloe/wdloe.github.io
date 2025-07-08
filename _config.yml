@@ -26,3 +26,23 @@
     background-color: #007acc;
     border-radius: 5px;
 }
+title: William Damario Lukito
+description: Personal GitHub page of William Damario Lukito
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wdloe.github.io" # the base hostname & protocol for your site
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
