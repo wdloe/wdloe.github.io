@@ -3,10 +3,14 @@ layout: default
 title: Home
 ---
 
-## Introduction
+<img src="/assets/images/profile.png" alt="William Damario Lukito" width="200" style="border-radius: 50%; margin-bottom: 20px;">
 
-Hello there! I'm William Damario Lukito, a passionate and motivated individual with a background in Telecommunications Engineering. I graduated from Bandung Institute of Technology, Indonesia, holding both a Bachelor's and Master's degree in the field. Currently, I'm on an exciting journey towards obtaining my Doctor of Philosophy (PhD) degree at La Trobe University, Australia. My research focuses on the fascinating realm of applying artificial intelligence to enhance the capabilities of IoT satellites. I'm grateful to be supported by the Australian SmartSat CRC during this enriching and rewarding PhD experience.
+Hi there, and thanks for stopping by
 
-![ITB](assets/images/ITB.png)
-![LTU](assets/images/LTU.png)
-![SSCRC](assets/images/SSCRC.png)
+I am **William Damario Lukito** — someone who is always curious about how technology can make our world more connected.
+
+I hold a background in **Telecommunications Engineering**, with both Bachelor's and Master's degrees from [Bandung Institute of Technology](https://itb.ac.id). Currently, I am pursuing a PhD at [La Trobe University](https://www.latrobe.edu.au), Australia, where I explore how **Artificial Intelligence** can enhance the capabilities of **wireless communication systems**, particularly on *satellite IoT communications*. I am grateful to be supported by the [SmartSat CRC](https://smartsatcrc.com), and to be supervised by [Distinguished Professor Wei Xiang](https://scholar.google.com.au/citations?user=VxQUr90AAAAJ&hl=en), whose guidance continues to shape my journey.
+
+Outside of research, I enjoy **traveling** and **telling stories through photography**. If you're into that too, feel free to visit my [YouTube channel](https://www.youtube.com/@WDLukito) or [Instagram](https://www.instagram.com/WilliamDLukito).
+
+I’m always open to connecting, sharing, and collaborating — thanks again for visiting!
