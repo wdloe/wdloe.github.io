@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="/assets/images/profile.png" alt="William Damario Lukito" width="200" style="border-radius: 50%; margin-bottom: 20px;">
+<img src="/assets/images/profile.png" alt="William Damario Lukito" width="200" style="float: left; margin: 0 20px 20px 0;">
 
 Hi there, and thanks for stopping by
 
