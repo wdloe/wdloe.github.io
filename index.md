@@ -22,7 +22,7 @@ I am always open to connecting, sharing, and collaborating — thanks again for 
   Thesis: [Machine Learning Implementation for Software-Defined Radio-Based Modulation Classifier](https://digilib.itb.ac.id/gdl/view/55549/)<br>
   *Academic Supervisor:* [Dr. Effrina Yanti Hamid](https://scholar.google.com/citations?user=dPY_nF4AAAAJ&hl=en)
 
-- **Master of Engineering (M.Eng.) / *Magister Teknik (M.T.)***, Electrical Engineering, Telecommunications-focused Program (Cum Laude)<br>
+- **Master of Engineering (M.Eng.) / *Magister Teknik (M.T.)***, Electrical-Telecommunications Engineering (Cum Laude)<br>
   *Bandung Institute of Technology (ITB), Indonesia, 2021-2022*<br>
   Thesis: [Principal Component Analysis for SVM Algorithm-Based Modulation Classifier Model Optimisation](https://digilib.itb.ac.id/gdl/view/64890/)<br> 
   *Academic Supervisor:* [Dr. Effrina Yanti Hamid](https://scholar.google.com/citations?user=dPY_nF4AAAAJ&hl=en)
@@ -31,6 +31,23 @@ I am always open to connecting, sharing, and collaborating — thanks again for 
   *La Trobe University, Australia, 2023-present*<br>
   Topic: Artificial Intelligence for Efficient Satellite IoT Communications<br>
   *Principal Supervisor:* [Distinguished Professor Wei Xiang](https://scholar.google.com.au/citations?user=VxQUr90AAAAJ&hl=en)
+
+
+## Awards
+I am honored to have received the following awards:
+- SmartSat CRC PhD Scholarship, 2023 - 2026
+- La Trobe University Full Fee Research Scholarship, 2023 - 2026
+- ITB GTA Scholarship, 2021 - 2022
+
+
+## Professional Activities
+Currently, I am an active reviewer for these following journals:
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Communications
+- IEEE Transactions on Green Communications and Networking
+- IEEE Journal on Selected Areas in Communications
+- IEEE Internet of Things Journal
+- Springer Nature Computer Science
 
 
 ## Contact
