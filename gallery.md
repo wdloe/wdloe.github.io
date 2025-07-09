@@ -4,26 +4,35 @@ title: Photography Gallery
 permalink: /gallery/
 ---
 
-# Photography Gallery
 
 A collection of moments I've captured around the world.
 
+<div class="photo-gallery">
+
+![Gyeongbokgung Palace](/assets/images/photos-gallery/gyeongbokgung.JPG)
+*Gyeongbokgung Palace, Seoul, South Korea*
+
+![Flinders Street Tram](/assets/images/photos-gallery/bourkestreettram.JPG)
+*Flinders Street Tram, Melbourne, Australia*
+
+![Dongdaemun Design Plaza](/assets/images/photos-gallery/ddp.JPG)
+*Dongdaemun Design Plaza (DDP), Seoul, South Korea*
+
+![Fenghuang](/assets/images/photos-gallery/fenghuang.JPG)
+*Fenghuang Ancient Town, China*
+
+![Big Buddha](/assets/images/photos-gallery/bigbuddhaguanghzhou.JPG)
+*Big Buddha, Guangzhou, China*
+
+![Pantai Jerman](/assets/images/photos-gallery/pantaijerman.JPG)
+*Pantai Jerman, Bali, Indonesia*
+
+</div>
+
 ---
 
-## Gyeongbokgung Palace, Seoul  
-![Gyeongbokgung](https://instagram.fmel12-1.fna.fbcdn.net/v/t51.2885-15/486119891_18498859213012040_65450458309024033_n.jpg)
 
-## Flinders Street Station, Melbourne  
-![Flinders Street](https://instagram.fmel12-1.fna.fbcdn.net/v/t51.2885-15/470093217_18479695573012040_6184202053460474604_n.jpg)
-
-## Dongdaemun Design Plaza (DDP), Seoul  
-![DDP](https://instagram.fmel12-1.fna.fbcdn.net/v/t51.2885-15/483036516_18495513973012040_1522461689202332754_n.jpg)
-
-## Melbourne Tram  
-![Melbourne Tram](https://instagram.fmel12-1.fna.fbcdn.net/v/t39.30808-6/470194544_18479379580012040_8342735753430887888_n.jpg)
-
-## Sunset at Jimbaran, Bali  
-![Jimbaran Sunset](https://instagram.fmel12-1.fna.fbcdn.net/v/t39.30808-6/471517290_18482443501012040_4464421164404743882_n.jpg)
 
 ---
-More photos coming soon.
+More photos coming soon. Or you can request to follow me on Instagram.  
+Please note that my Instagram is private, as I only share my photos with selected people.
