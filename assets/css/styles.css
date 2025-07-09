@@ -12,20 +12,21 @@ body {
 }
 
 /* Horizontal navigation bar */
-.site-nav ul {
-    list-style: none;           /* remove bullets */
-    padding: 0;
-    margin: 0;
-    display: flex;              /* make horizontal */
-    justify-content: center;    /* center horizontally */
-    background-color: #f5f5f5;  /* light background */
-    border-bottom: 1px solid #ddd; /* subtle bottom border */
+.site-nav {
     position: sticky;
     top: 0;
     z-index: 1000;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     background-color: #f5f5f5;
     padding: 10px 0;
+}
+
+.site-nav ul {
+    list-style: none;           /* remove bullets */
+    padding: 0;
+    margin: 0;
+    display: flex;              /* make horizontal */
+    justify-content: center;    /* center horizontally */
 }
 
 .site-nav li {
