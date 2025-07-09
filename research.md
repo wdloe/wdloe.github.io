@@ -8,7 +8,7 @@ My research interests are in wireless communications, with a particular focus on
 
 Prior to commencing my PhD, my research interests encompassed radar signal processing, software-defined radios (SDRs), and the development of UAV-based communication systems, including antenna design, impedance matching, and datalink integration. I was also engaged in biomedical image processing, driven by its critical role in advancing health-related research.
 
-*Keywords:* wireless communications, artifical intelligence, ISAC, IOT, optimization, semantic communications.
+*Keywords:* wireless communications, artifical intelligence, ISAC, IoT, optimization, semantic communications.
 
 ## Research Outputs
 
