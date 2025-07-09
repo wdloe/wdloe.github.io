@@ -7,8 +7,6 @@ permalink: /gallery/
 
 A collection of moments I've captured around the world.
 
-<div class="photo-gallery">
-
 ![Gyeongbokgung Palace](/assets/images/photos-gallery/gyeongbokgung.JPG)  
 *Gyeongbokgung Palace, Seoul, South Korea*
 
@@ -26,8 +24,6 @@ A collection of moments I've captured around the world.
 
 ![Pantai Jerman](/assets/images/photos-gallery/pantaijerman.JPG)  
 *Pantai Jerman, Bali, Indonesia*
-
-</div>
 
 ---
 
