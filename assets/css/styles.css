@@ -60,10 +60,11 @@ header .description {
 }
 
 a img {
-    border: none;
-    text-decoration: none;
+  text-decoration: none;
+  border: none;
+  display: inline-block;
+  vertical-align: middle;
 }
-
 a:has(img) {
-    text-decoration: none;
+  text-decoration: none;
 }
