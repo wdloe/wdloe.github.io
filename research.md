@@ -6,6 +6,8 @@ title: Research
 # Research
 My research interests are in wireless communications, with a particular focus on the integration of artificial intelligence (AI) into communication systems. My PhD research is centered on AI-enabled satellite communications in the direction of emerging sixth-generation (6G) networks, covering topics such as signal processing, resource allocation, optimization techniques, and semantic communications. I am also interested in integrated sensing and communications (ISAC), where systems simultaneously perform communication and environmental sensing, as well as the design of intelligent sensing networks. Additionally, I explore the role of satellite communications in supporting large-scale Internet of Things (IoT) networks, with the goal of enabling energy-efficient and reliable connectivity in remote and challenging environments.
 
+Prior to commencing my PhD, my research interests encompassed radar signal processing, software-defined radios (SDRs), and the development of UAV-based communication systems, including antenna design, impedance matching, and datalink integration. I was also engaged in biomedical image processing, driven by its critical role in advancing health-related research.
+
 *Keywords:* wireless communications, artifical intelligence, ISAC, IOT, optimization, semantic communications.
 
 ## Research Outputs
