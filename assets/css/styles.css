@@ -68,3 +68,7 @@ a img {
 a:has(img) {
   text-decoration: none;
 }
+
+footer {
+    margin-top: 3em;
+}
