@@ -29,6 +29,8 @@ Outside of research, I enjoy **traveling** and **telling stories through photogr
 
 I am always open to connecting, sharing, and collaborating — thanks again for visiting!
 
+---
+
 ## Educational Background
 
 - **Bachelor of Engineering (B.Eng.) / *Sarjana Teknik (S.T.)***, Telecommunications Engineering (Cum Laude)<br>
@@ -47,12 +49,15 @@ I am always open to connecting, sharing, and collaborating — thanks again for 
   *Principal Supervisor:* [Distinguished Professor Wei Xiang](https://scholar.google.com.au/citations?user=VxQUr90AAAAJ&hl=en)
 
 
+---
+
 ## Awards
 I am honored to have received the following awards:
 - SmartSat CRC PhD Scholarship, 2023 - 2026
 - La Trobe University Full Fee Research Scholarship, 2023 - 2026
 - ITB GTA Scholarship, 2021 - 2022
 
+---
 
 ## Professional Activities
 I am *an active member* of IEEE, IEEE Communications Society (ComSoc), and IEEE Vehicular Technology Society (VTS).
@@ -65,6 +70,7 @@ Currently, I am *an active reviewer* for these following journals:
 - IEEE Internet of Things Journal (IOT-J)
 - Springer Nature Computer Science
 
+---
 
 ## Contact
 
