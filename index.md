@@ -7,13 +7,13 @@ title: Home
 <img src="/assets/images/profile.png" alt="William Damario Lukito" width="200" style="float: left; margin: 0 20px 20px 0;">
 <p style="margin-top: 0.5em;">
   <a href="https://www.linkedin.com/in/williamdlukito" target="_blank" style="margin-right: 10px;">
-    <img src="/assets/icons/linkedin.svg" alt="LinkedIn" width="24">
+    <img src="/assets/icons/linkedin.png" alt="LinkedIn" width="24">
   </a>
   <a href="https://scholar.google.com/citations?user=V7wkXKcAAAAJ" target="_blank" style="margin-right: 10px;">
-    <img src="/assets/icons/google-scholar.svg" alt="Google Scholar" width="24">
+    <img src="/assets/icons/google-scholar.png" alt="Google Scholar" width="24">
   </a>
-  <a href="https://orcid.org/0000-0002-9582-8449" target="_blank">
-    <img src="/assets/icons/orcid.svg" alt="ORCID" width="24">
+  <a href="https://orcid.org/0009-0007-9940-9955" target="_blank">
+    <img src="/assets/icons/orcid.png" alt="ORCID" width="24">
   </a>
 </p>
 
