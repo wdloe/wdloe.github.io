@@ -1,4 +1,7 @@
 /* Your current styles.css can be copied here */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
 /* Example base style */
 body {
     font-family: 'Montserrat', sans-serif;
