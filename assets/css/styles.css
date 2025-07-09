@@ -58,3 +58,12 @@ header h1 {
 header .description {
     margin-top: 0.2em;
 }
+
+a img {
+    border: none;
+    text-decoration: none;
+}
+
+a:has(img) {
+    text-decoration: none;
+}

@@ -41,7 +41,7 @@ I am always open to connecting, sharing, and collaborating — thanks again for 
   Thesis: [Principal Component Analysis for SVM Algorithm-Based Modulation Classifier Model Optimisation](https://digilib.itb.ac.id/gdl/view/64890/)<br> 
   *Academic Supervisor:* [Dr. Effrina Yanti Hamid](https://scholar.google.com/citations?user=dPY_nF4AAAAJ&hl=en)
 
-- **Doctor of Philosophy (Ph.D.)**, AI and Internet of Things<br>
+- **Doctor of Philosophy (Ph.D.)**, Computer Science and Information Technology<br>
   *La Trobe University, Australia, 2023-present*<br>
   Topic: Artificial Intelligence for Efficient Satellite IoT Communications<br>
   *Principal Supervisor:* [Distinguished Professor Wei Xiang](https://scholar.google.com.au/citations?user=VxQUr90AAAAJ&hl=en)
