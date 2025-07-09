@@ -3,17 +3,8 @@ layout: default
 title: Home
 ---
 
-<nav class="site-nav">
-  <ul>
-    <li><a href="#about">About</a></li>
-    <li><a href="#education">Education</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ul>
-</nav>
-
 <img src="/assets/images/profile.png" alt="William Damario Lukito" width="200" style="float: left; margin: 0 20px 20px 0;">
 
-<span id="about"></span>
 Hi there, and thanks for stopping by
 
 I am **William Damario Lukito** — someone who is always curious about how technology can make our world more connected.
@@ -22,24 +13,23 @@ I hold a background in **Telecommunications Engineering**, with both Bachelor's 
 
 Outside of research, I enjoy **traveling** and **telling stories through photography**. If you're into that too, feel free to visit my [YouTube channel](https://www.youtube.com/@WDLukito) or [Instagram](https://www.instagram.com/WilliamDLukito).
 
-I’m always open to connecting, sharing, and collaborating — thanks again for visiting!
+I am always open to connecting, sharing, and collaborating — thanks again for visiting!
 
-<span id="education"></span>
 ## Educational Background
 
-- **Bachelor of Engineering (B.Eng.) / *Sarjana Teknik (S.T.)* **, Telecommunications Engineering (Cum Laude), ITB, Indonesia, 2017-2021  
+- **Bachelor of Engineering (B.Eng.) / *Sarjana Teknik (S.T.)***, Telecommunications Engineering (Cum Laude), ITB, Indonesia, 2017-2021  
   Thesis: [Machine Learning Implementation for Software-Defined Radio-Based Modulation Classifier](https://digilib.itb.ac.id/gdl/view/55549/)  
-  *Academic Supervisor:* Dr. [Effrina Yanti Hamid](https://scholar.google.com/citations?user=dPY_nF4AAAAJ&hl=en)
+  *Academic Supervisor:* [Dr. Effrina Yanti Hamid](https://scholar.google.com/citations?user=dPY_nF4AAAAJ&hl=en)
 
-- **Master of Engineering (M.Eng.) / *Magister Teknik (M.T.)* **, Electrical Engineering, Telecommunications-focused Program (Cum Laude), ITB, Indonesia, 2021-2022  
+- **Master of Engineering (M.Eng.) / *Magister Teknik (M.T.)***, Electrical Engineering, Telecommunications-focused Program (Cum Laude), ITB, Indonesia, 2021-2022  
   Thesis: [Principal Component Analysis for SVM Algorithm-Based Modulation Classifier Model Optimisation](https://digilib.itb.ac.id/gdl/view/64890/)  
-  *Academic Supervisor:* Dr. [Effrina Yanti Hamid](https://scholar.google.com/citations?user=dPY_nF4AAAAJ&hl=en)
+  *Academic Supervisor:* [Dr. Effrina Yanti Hamid](https://scholar.google.com/citations?user=dPY_nF4AAAAJ&hl=en)
 
 - **Doctor of Philosophy (Ph.D.)**, AI and Internet of Things, La Trobe University, Australia, 2023-present  
   Topic: Artificial Intelligence for Efficient Satellite IoT Communications
-  *Principal Supervisor:* Distinguished Professor [Wei Xiang](https://scholar.google.com.au/citations?user=VxQUr90AAAAJ&hl=en)
+  *Principal Supervisor:* [Distinguished Professor Wei Xiang](https://scholar.google.com.au/citations?user=VxQUr90AAAAJ&hl=en)
 
-<span id="contact"></span>
+
 ## Contact
 
 If you have any questions or inquiries, please feel free to reach out to me anytime at [W(dot)Lukito(at)latrobe(dot)edu(dot)au](mailto:W.Lukito@latrobe.edu.au).  

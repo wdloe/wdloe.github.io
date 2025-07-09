@@ -3,6 +3,6 @@ layout: default
 title: Projects
 ---
 
-## Projects
+## Publications
 
 Coming soon.
