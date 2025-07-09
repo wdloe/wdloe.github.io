@@ -5,17 +5,21 @@ title: About
 
 ## Educational Background
 
-- **Bachelor of Engineering (B.Eng.)**, Telecommunications Engineering (Cum Laude), ITB, Indonesia, 2017-2021  
+- **Bachelor of Engineering (B.Eng.) / *Sarjana Teknik (S.T.)* **, Telecommunications Engineering (Cum Laude), ITB, Indonesia, 2017-2021  
   Thesis: [Machine Learning Implementation for Software-Defined Radio-Based Modulation Classifier](https://digilib.itb.ac.id/gdl/view/55549/)  
-  Supervisor: Effrina Yanti Hamid, S.T., M.T., Ph.D.
+  *Academic Supervisor:* Dr. [Effrina Yanti Hamid](https://scholar.google.com/citations?user=dPY_nF4AAAAJ&hl=en)
 
-- **Master of Engineering (M.Eng.)**, Electrical Engineering-Telecommunications (Cum Laude), ITB, Indonesia, 2021-2022  
+- **Master of Engineering (M.Eng.) / *Magister Teknik (M.T.)* **, Electrical Engineering, Telecommunications-focused Program (Cum Laude), ITB, Indonesia, 2021-2022  
   Thesis: [Principal Component Analysis for SVM Algorithm-Based Modulation Classifier Model Optimisation](https://digilib.itb.ac.id/gdl/view/64890/)  
-  Supervisor: Effrina Yanti Hamid, S.T., M.T., Ph.D.
+  *Academic Supervisor:* Dr. [Effrina Yanti Hamid](https://scholar.google.com/citations?user=dPY_nF4AAAAJ&hl=en)
 
-- **Doctor of Philosophy (Ph.D.)**, Computer Science and Information Technology, La Trobe University, Australia, 2023-present  
-  Principal Supervisor: Professor Wei Xiang
+- **Doctor of Philosophy (Ph.D.)**, AI and Internet of Things, La Trobe University, Australia, 2023-present  
+  Topic: Artificial Intelligence for Efficient Satellite IoT Communications
+  *Principal Supervisor:* Distinguished Professor [Wei Xiang](https://scholar.google.com.au/citations?user=VxQUr90AAAAJ&hl=en)
 
 ## Industrial Background
 
-Coming soon.
+- LAPI ITB
+- Inmarsat
+- Aksantara ITB
+
