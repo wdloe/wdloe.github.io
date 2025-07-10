@@ -12,8 +12,8 @@ A collection of moments I've captured around the world.
 <img src="/assets/images/photos-gallery/gyeongbokgung.JPG" alt="Gyeongbokgung Palace" style="width: 100%; max-width: 800px;">  
 *Gyeongbokgung Palace, Seoul, South Korea*
 
-<img src="/assets/images/photos-gallery/bourkestreettram.JPG" alt="Flinders Street Tram" style="width: 100%; max-width: 800px;">  
-*Melbourne-iconic Tram in front of Flinders Street Station, Melbourne, Australia*
+<img src="/assets/images/photos-gallery/bourkestreettram.JPG" alt="Bourke Street Tram" style="width: 100%; max-width: 800px;">  
+*Melbourne-iconic Tram stopping at Swanston St-Bourke St stop, Melbourne, Australia*
 
 <img src="/assets/images/photos-gallery/ddp.JPG" alt="Dongdaemun Design Plaza" style="width: 100%; max-width: 800px;">  
 *Dongdaemun Design Plaza (DDP), Seoul, South Korea*
