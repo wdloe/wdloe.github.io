@@ -4,7 +4,7 @@ title: Photography Gallery
 permalink: /gallery/
 ---
 
-*“Memories are timeless treasures of the heart.”*</br>
+*“Memories are timeless treasures of the heart.”*<br>
 *— Unknown*
 
 A collection of moments I've captured around the world.
