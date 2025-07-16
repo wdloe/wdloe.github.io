@@ -1,7 +1,7 @@
 /* Your current styles.css can be copied here */
 /* Example base style */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Helvetica, sans-serif;
     line-height: 1.6;
     background-color: #f9f9f9;
     color: #333;
@@ -44,6 +44,21 @@ body {
     color: #fff;
     background-color: #007acc;  /* hover background color */
     border-radius: 5px;
+}
+
+@media (max-width: 600px) {
+  .site-nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .site-nav li {
+    margin: 5px 0;
+  }
+
+  .site-nav a {
+    padding: 8px 10px;
+  }
 }
 
 header {
