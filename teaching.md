@@ -1,4 +1,3 @@
-# Teaching Portfolio
 Welcome to my teaching portfolio page.
 
 ## Courses Taught
