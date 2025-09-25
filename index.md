@@ -81,4 +81,5 @@ Alternatively, you can connect with me on [LinkedIn](https://www.linkedin.com/in
 
 Thank you and have a nice day!
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=wDMYT30wg-Kn15Nq_xlp8c6GXx96Dy4s5-OZi1Jv0zY&cl=ffffff&w=a"></script>
+### Visitors and World Map
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=wDMYT30wg-Kn15Nq_xlp8c6GXx96Dy4s5-OZi1Jv0zY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
