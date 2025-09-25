@@ -68,6 +68,7 @@ Currently, I am *an active reviewer* for these following journals:
 - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Internet of Things Journal (IOT-J)
+- IEEE Communications Magazine (COMMAG)
 - Springer Nature Computer Science
 
 ---
@@ -79,3 +80,5 @@ If you have any questions or inquiries, please feel free to reach out to me anyt
 Alternatively, you can connect with me on [LinkedIn](https://www.linkedin.com/in/williamdlukito).  
 
 Thank you and have a nice day!
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=wDMYT30wg-Kn15Nq_xlp8c6GXx96Dy4s5-OZi1Jv0zY&cl=ffffff&w=a"></script>
