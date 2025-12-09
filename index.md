@@ -62,14 +62,19 @@ I am honored to have received the following awards:
 ## Professional Activities
 I am *an active member* of IEEE, IEEE Communications Society (ComSoc), and IEEE Vehicular Technology Society (VTS).
 
-Currently, I am *an active reviewer* for these following journals:
-- IEEE Transactions on Vehicular Technology (TVT)
-- IEEE Transactions on Communications (TCOM)
-- IEEE Transactions on Cognitive Communications and Networking (TCCN)
-- IEEE Journal on Selected Areas in Communications (JSAC)
-- IEEE Internet of Things Journal (IOT-J)
-- IEEE Communications Magazine (COMMAG)
+Currently, I am *a reviewer* for these following venues:
+- IEEE Internet of Things Journal
+- IEEE Transactions on Communications
+- IEEE Transactions on Vehicular Technology
+- IEEE Journal on Selected Areas in Communications
+- IEEE Network Magazine
+- IEEE Communications Magazine
+- IEEE Transactions on Cognitive Communications and Networking
+- IEEE Transactions on Wireless Communications
+- Scientific Reports
 - Springer Nature Computer Science
+
+*For an updated list*, please visit my [Web of Science profile](https://www.webofscience.com/wos/author/record/JXO-0029-2024).
 
 ---
 
