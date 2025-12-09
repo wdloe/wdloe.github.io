@@ -31,6 +31,16 @@ I am always open to connecting, sharing, and collaborating — thanks again for 
 
 ---
 
+## News
+- **11/2025** One paper accepted in IEEE Journal on Selected Areas in Communications.
+- **11/2025** I was featured in the [SmartSat CRC 2024/2025 Annual Report](https://smartsatcrc.lbcdn.io/uploads/SmartSat-Annual-Report_2024-25-FINAL_Financials.pdf).
+- **04/2025** One paper accepted in IEEE Transactions on Vehicular Technology.
+- **09/2024** One paper accepted in IEEE Internet of Things Journal.
+- **09/2024** I presented a poster in SmartSat CRC Conference 2024, Adelaide, South Australia
+- **09/2024** One paper accepted in IEEE Transactions on Vehicular Technology.
+- **10/2023** I presented a poster in SmartSat CRC Conference 2023, Adelaide, South Australia.
+- **02/2023** I started my PhD journey with Prof. Wei Xiang, La Trobe University.
+
 ## Educational Background
 
 - **Bachelor of Engineering (B.Eng.) / *Sarjana Teknik (S.T.)***, Telecommunications Engineering (Cum Laude)<br>
