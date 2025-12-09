@@ -13,13 +13,13 @@ Prior to commencing my PhD, my research interests encompassed radar signal proce
 ## Research Outputs
 
 ### Articles
-[J4] **W. D. Lukito**, W. Xiang, C. Liu, P. Lai, P. Cheng, W. Yuan, and G. Mao, “Channel-Agnostic Predictive Beamforming for Crowdsourced Bistatic Satellite ISAC with LLM,” *IEEE Journal on Selected Areas in Communications (Early Access)*, pp. 1–16, 2025, doi: 10.1109/JSAC.2025.3641581. **(Q1, IF = 17.2)** [Link](https://ieeexplore.ieee.org/document/11284853)
+[J4] **W. D. Lukito**, W. Xiang, C. Liu, P. Lai, P. Cheng, W. Yuan, and G. Mao, “Channel-Agnostic Predictive Beamforming for Crowdsourced Bistatic Satellite ISAC with LLM,” *IEEE Journal on Selected Areas in Communications (Early Access)*, pp. 1–16, 2025, doi: [10.1109/JSAC.2025.3641581](https://doi.org/10.1109/JSAC.2025.3641581). **(Q1, IF = 17.2)**
 
-[J3] **W. D. Lukito**, W. Xiang, C. Liu, P. Lai, P. Cheng, and G. Mao, “Learning to Design Transceiver for Integrated Sensing and Communications: A Satellite Communications Perspective,” *IEEE Transactions on Wireless Communications*, vol. 24, no. 9, pp. 7409–7423, Sep. 2025, doi: 10.1109/TWC.2025.3560619. **(Q1, IF = 10.7)** [Link](https://ieeexplore.ieee.org/document/10971873)
+[J3] **W. D. Lukito**, W. Xiang, C. Liu, P. Lai, P. Cheng, and G. Mao, “Learning to Design Transceiver for Integrated Sensing and Communications: A Satellite Communications Perspective,” *IEEE Transactions on Wireless Communications*, vol. 24, no. 9, pp. 7409–7423, Sep. 2025, doi: [10.1109/TWC.2025.3560619](https://doi.org/10.1109/TWC.2025.3560619). **(Q1, IF = 10.7)**
 
-[J2] **W. D. Lukito**, W. Xiang, P. Lai, P. Cheng, C. Liu, K. Yu, and X. Zhu, “Integrated STAR-RIS and UAV for Satellite IoT Communications: An Energy-Efficient Approach,” *IEEE Internet of Things Journal*, vol. 12, no. 9, pp. 11356–11371, May 2025, doi: 10.1109/JIOT.2024.3472019. **(Q1, IF = 8.9)** [Link](https://ieeexplore.ieee.org/document/10702554)
+[J2] **W. D. Lukito**, W. Xiang, P. Lai, P. Cheng, C. Liu, K. Yu, and X. Zhu, “Integrated STAR-RIS and UAV for Satellite IoT Communications: An Energy-Efficient Approach,” *IEEE Internet of Things Journal*, vol. 12, no. 9, pp. 11356–11371, May 2025, doi: [10.1109/JIOT.2024.3472019](https://doi.org/10.1109/JIOT.2024.3472019). **(Q1, IF = 8.9)**
 
-[J1] P. Lai, W. Xiang, **W. D. Lukito**, K. T. Phan, P. Cheng, C. Liu, and G. Mao, "Hybrid Network- and User-Centric Scalable Cell-Free Massive MIMO for Fronthaul Signaling Minimization," in *IEEE Transactions on Vehicular Technology*, vol. 74, no. 5, pp. 8309-8314, May 2025, doi: 10.1109/TVT.2024.3456114. **(Q1, IF = 7.1)** [Link](https://ieeexplore.ieee.org/document/10669738)
+[J1] P. Lai, W. Xiang, **W. D. Lukito**, K. T. Phan, P. Cheng, C. Liu, and G. Mao, "Hybrid Network- and User-Centric Scalable Cell-Free Massive MIMO for Fronthaul Signaling Minimization," in *IEEE Transactions on Vehicular Technology*, vol. 74, no. 5, pp. 8309-8314, May 2025, doi: [10.1109/TVT.2024.3456114](https://doi.org/10.1109/TVT.2024.3456114). **(Q1, IF = 7.1)**
 
 ### Conferences
 [C7] **W. D. Lukito**, F. E. Rashad and E. Y. Hamid, "Multi Features-based Baseband Modulation Classification using Support Vector Machine," 2021 International Conference on Radar, Antenna, Microwave, Electronics, and Telecommunications (ICRAMET), Bandung, Indonesia, 2021, pp. 227-231, doi: 10.1109/ICRAMET53537.2021.9650496.
