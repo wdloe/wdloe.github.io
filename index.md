@@ -34,7 +34,7 @@ I am always open to connecting, sharing, and collaborating — thanks again for 
 ## News
 - **11/2025** One paper accepted in IEEE Journal on Selected Areas in Communications.
 - **11/2025** I was featured in the [SmartSat CRC 2024/2025 Annual Report](https://smartsatcrc.lbcdn.io/uploads/SmartSat-Annual-Report_2024-25-FINAL_Financials.pdf).
-- **04/2025** One paper accepted in IEEE Transactions on Vehicular Technology.
+- **04/2025** One paper accepted in IEEE Transactions on Wireless Communications.
 - **09/2024** One paper accepted in IEEE Internet of Things Journal.
 - **09/2024** I presented a poster in SmartSat CRC Conference 2024, Adelaide, South Australia
 - **09/2024** One paper accepted in IEEE Transactions on Vehicular Technology.
