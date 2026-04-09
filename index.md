@@ -63,7 +63,7 @@ I am always open to connecting, sharing, and collaborating — thanks again for 
 - **Doctor of Philosophy (Ph.D.)**, Computer Science and Information Technology<br>
   *La Trobe University, Australia, Feb. 2023 - present*<br>
   Topic: Artificial Intelligence for Efficient Satellite IoT Communications<br>
-  *Principal Supervisor:* [Distinguished Professor Wei Xiang](https://scholar.google.com.au/citations?user=VxQUr90AAAAJ&hl=en)
+  *Principal Supervisor:* [Professor Wei Xiang](https://scholar.google.com.au/citations?user=VxQUr90AAAAJ&hl=en)
 
 
 ---
@@ -102,6 +102,8 @@ If you have any questions or inquiries, please feel free to reach out to me anyt
 Alternatively, you can connect with me on [LinkedIn](https://www.linkedin.com/in/williamdlukito).  
 
 Thank you and have a nice day!
+
+---
 
 ### Visitors and World Map
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=wDMYT30wg-Kn15Nq_xlp8c6GXx96Dy4s5-OZi1Jv0zY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
