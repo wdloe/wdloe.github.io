@@ -50,12 +50,12 @@ I am always open to connecting, sharing, and collaborating — thanks again for 
 
 ## Educational Background
 
-- **Bachelor of Engineering (B.Eng.) / *Sarjana Teknik (S.T.)***, Telecommunications Engineering (Cum Laude)<br>
+- **Bachelor of Science (B.Sc.) / *Sarjana Teknik (S.T.)***, Telecommunications Engineering (Cum Laude)<br>
   *Bandung Institute of Technology (ITB), Indonesia, Aug. 2017 - Jun. 2021*<br>
   Thesis: [Machine Learning Implementation for Software-Defined Radio-Based Modulation Classifier](https://digilib.itb.ac.id/gdl/view/55549/)<br>
   *Academic Supervisor:* [Dr. Effrina Yanti Hamid](https://scholar.google.com/citations?user=dPY_nF4AAAAJ&hl=en)
 
-- **Master of Engineering (M.Eng.) / *Magister Teknik (M.T.)***, Electrical-Telecommunications Engineering (Cum Laude)<br>
+- **Master of Science (M.Sc.) / *Magister Teknik (M.T.)***, Electrical-Telecommunications Engineering (Cum Laude)<br>
   *Bandung Institute of Technology (ITB), Indonesia, Aug. 2021 - Jul. 2022*<br>
   Thesis: [Principal Component Analysis for SVM Algorithm-Based Modulation Classifier Model Optimisation](https://digilib.itb.ac.id/gdl/view/64890/)<br> 
   *Academic Supervisor:* [Dr. Effrina Yanti Hamid](https://scholar.google.com/citations?user=dPY_nF4AAAAJ&hl=en)
