@@ -5,7 +5,13 @@ title: Home
 
 
 <div style="float: left; margin: 0 20px 20px 0; text-align: center;">
-  <img src="/assets/images/profile.png" alt="William Damario Lukito" width="200"><br>
+  <img 
+    src="/assets/images/profile.png" 
+    alt="William Damario Lukito" 
+    width="200"
+    height="200"
+    style="border-radius: 50%; object-fit: cover;"
+  ><br>
   <div style="margin-top: 0.5em;">
     <a href="https://www.linkedin.com/in/williamdlukito" target="_blank" style="margin-right: 10px;">
       <img src="/assets/icons/linkedin.png" alt="LinkedIn" width="24">
@@ -32,6 +38,7 @@ I am always open to connecting, sharing, and collaborating — thanks again for 
 ---
 
 ## News
+- **03/2026** One paper accepted in IEEE IGARSS 2026.
 - **11/2025** One paper accepted in IEEE Journal on Selected Areas in Communications.
 - **11/2025** I was featured in the [SmartSat CRC 2024/2025 Annual Report](https://smartsatcrc.lbcdn.io/uploads/SmartSat-Annual-Report_2024-25-FINAL_Financials.pdf).
 - **04/2025** One paper accepted in IEEE Transactions on Wireless Communications.

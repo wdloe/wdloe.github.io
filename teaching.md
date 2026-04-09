@@ -20,7 +20,7 @@ Welcome to my teaching portfolio page.
 
 - Algorithms and Data Structures *(Semester I 2024, Semester I 2025)*
 
-- Embedded System Sensing *(Semester I 2025)*
+- Embedded System Sensing *(Semester I 2025, Semester I 2026)*
 
 
 
