@@ -22,6 +22,8 @@ Prior to commencing my PhD, my research interests encompassed radar signal proce
 [J1] P. Lai, W. Xiang, **W. D. Lukito**, K. T. Phan, P. Cheng, C. Liu, and G. Mao, "Hybrid Network- and User-Centric Scalable Cell-Free Massive MIMO for Fronthaul Signaling Minimization," in *IEEE Transactions on Vehicular Technology*, vol. 74, no. 5, pp. 8309-8314, May 2025, doi: [10.1109/TVT.2024.3456114](https://doi.org/10.1109/TVT.2024.3456114). **(Q1, IF = 7.1)**
 
 ### Conferences
+[C8] N. Francis, P. Cheng, **W. D. Lukito** and Y. Gao, "Learning-Based RIS-Assisted Secure Beamforming Design: A User-Scalable GNN Approach," 2025 11th International Workshop on Signal Design and Its Applications in Communications (IWSDA), Melbourne, Australia, 2025, pp. 1-5, doi: 10.1109/IWSDA67899.2025.11457406.
+
 [C7] **W. D. Lukito**, F. E. Rashad and E. Y. Hamid, "Multi Features-based Baseband Modulation Classification using Support Vector Machine," 2021 International Conference on Radar, Antenna, Microwave, Electronics, and Telecommunications (ICRAMET), Bandung, Indonesia, 2021, pp. 227-231, doi: 10.1109/ICRAMET53537.2021.9650496.
 
 [C6] A. E. Nugroho, **W. D. Lukito**, I. Anshori, W. Adiprawita, H. A. Usman and O. Husain, "CLAHE Performance on Histogram-Based Features for Lymphoma Classification using KNN Algorithm," 2021 15th International Conference on Telecommunication Systems, Services, and Applications (TSSA), Bali, Indonesia, 2021, pp. 1-5, doi: 10.1109/TSSA52866.2021.9768221.
