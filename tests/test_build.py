@@ -51,6 +51,12 @@ class ContentTests(unittest.TestCase):
         rows=[row(), row(published='FALSE',title='Unfinished')]
         self.assertEqual(len(build.parse_content(feed(rows))),1)
 
+    def test_blank_published_is_draft_but_typos_still_fail(self):
+        draft=row(type='service',title='IEEE Transactions on Network Science and Engineering',published='',featured='')
+        self.assertEqual(build.parse_content(feed([row(),draft])),[row()])
+        with self.assertRaisesRegex(ValueError,'published must be TRUE or FALSE'):
+            build.parse_content(feed([row(published='TURE')]))
+
     def test_duplicates_and_bad_headers_fail(self):
         with self.assertRaisesRegex(ValueError,'duplicate'):
             build.parse_content(feed([row(),row()]))

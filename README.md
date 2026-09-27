@@ -48,7 +48,7 @@ Headers can be reordered, but their names must stay the same. An old `id` column
 | `url` | Optional HTTPS link (DOI, repository, demo, etc.) |
 | `image` | For photos, an HTTPS image URL or existing `/assets/images/…` path |
 | `featured` | `TRUE` to feature a publication on the homepage; otherwise `FALSE` |
-| `published` | `TRUE` to show the row, `FALSE` to leave it out of the website |
+| `published` | `TRUE` to show the row; `FALSE` or blank to leave it out as a draft. Blank cells are logged and skipped, so unfinished entries do not block updates. |
 
 The `description` column accepts line breaks and commas; use Sheets to handle CSV quoting automatically. HTML is rendered as text rather than executed. Sheets checkboxes work for the boolean columns.
 
