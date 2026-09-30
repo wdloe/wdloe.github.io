@@ -76,6 +76,16 @@ class ContentTests(unittest.TestCase):
         self.assertNotIn('<script>',rendered)
         self.assertIn('&lt;script&gt;',rendered)
 
+    def test_external_link_helper_has_no_arrow_icon(self):
+        rendered=build.link('https://example.com','Example')
+        self.assertNotIn('↗',rendered)
+
+    def test_research_positioning_is_wireless_first(self):
+        source=(Path(__file__).resolve().parents[1]/'scripts/build.py').read_text()
+        self.assertIn("('Wireless communications'",source)
+        self.assertIn("('Current focus: satellite IoT'",source)
+        self.assertIn('physical AI communications',source)
+
     def test_new_project_and_course_render_without_template_edits(self):
         records=build.parse_content(feed([row(),row(type='course',title='New course',description='Another university')]))
         with tempfile.TemporaryDirectory() as directory:
